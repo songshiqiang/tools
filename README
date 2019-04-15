@@ -1,0 +1,3 @@
+gethost 从输入获取ip,然后转换成host
+getip   从输入获取host,然后转换成ip
+tcpfwd  流量转发工具       
